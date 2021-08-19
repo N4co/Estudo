@@ -1,2 +1,2 @@
 # Estudo
-SrtingBuilder
+StringBuilder
